@@ -26,6 +26,7 @@ Class C {
 		C code in master
 		C code changed in Master;
 		C code again changed in Master;
+		And again changed in Master
 	}
 
 }
