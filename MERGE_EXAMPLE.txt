@@ -11,7 +11,8 @@ Class A {
 	
 	function A.af(){
 		Old A code in master
-		New A.a code;
+		New A code in Master;
+		Most megint felülírom;
 	}
 
 }
