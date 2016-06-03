@@ -11,6 +11,7 @@ Class A {
 	
 	function A.af(){
 		Old A code in master
+		New A.a code;
 	}
 
 }
