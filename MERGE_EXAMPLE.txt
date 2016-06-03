@@ -1,4 +1,4 @@
-ALAP INFO
+﻿ALAP INFO
 
 Until this point the MAIN and the BRANCH are the same
 -----------------------------------------------------
@@ -13,6 +13,7 @@ Class A {
 		Old A code in master
 		New A code in Master;
 		Most megint felülírom;
+		A code also changed in Master;
 	}
 
 }
@@ -23,6 +24,7 @@ Class C {
 	
 	function C.af(){
 		C code in master
+		C code changed in Master;
 	}
 
 }
