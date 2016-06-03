@@ -25,6 +25,7 @@ Class C {
 	function C.af(){
 		C code in master
 		C code changed in Master;
+		C code again changed in Master;
 	}
 
 }
