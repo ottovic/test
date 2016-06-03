@@ -1,0 +1,29 @@
+ALAP INFO
+
+Until this point the MAIN and the BRANCH are the same
+-----------------------------------------------------
+
+MAIN code
+
+Class A {
+	member A.a;
+	member A.b;
+	
+	function A.af(){
+		Old A code in master
+	}
+
+}
+
+Class C {
+	member C.a;
+	member C.b;
+	
+	function C.af(){
+		C code in master
+	}
+
+}
+
+
+
