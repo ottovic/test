@@ -5,4 +5,5 @@ Commit example
 3rd commit
 4.1th commit
 5.1th commit
-6.1st commit local 
+6.1st commit local
+6.2.2nd
